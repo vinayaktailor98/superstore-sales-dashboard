@@ -34,13 +34,14 @@ analyzing 4 years of US retail sales data
    3 synchronized slicers
 
 ## 📈 Key Business Findings
-| Finding | Detail |
-| Total Revenue | $2.26M over 4 years |
-| Revenue Growth | +50.5% (2015 to 2018) |
-| Top Category | Technology ($827K — 36.6%) |
-| Top Region | West ($710K — 31.4%) |
-| Peak Month | November every year |
-| Best Segment | Consumer (50.8%) |
+| Finding        | Detail                      |
+|----------------|-----------------------------|
+| Total Revenue  | $2.26M over 4 years         |
+| Revenue Growth | +50.5% (2015 to 2018)       |
+| Top Category   | Technology ($827K — 36.6%)  |
+| Top Region     | West ($710K — 31.4%)        |
+| Peak Month     | November every year         |
+| Best Segment   | Consumer (50.8%)            |
 
 ## 💡 Business Recommendations
 1. **Prioritize Technology upsell** to
