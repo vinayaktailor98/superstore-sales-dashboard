@@ -28,7 +28,7 @@ analyzing 4 years of US retail sales data
 3. Created 7 new calculated columns
    (Year, Month, Quarter, Shipping Days,
    Sales Tier, Est Ship Cost)
-4. Built 12 DAX measures in Power Pivot
+4. Built 6 DAX measures in Power Pivot
 5. Created 5 PivotTables and 5 charts
 6. Built interactive dashboard with
    3 synchronized slicers
