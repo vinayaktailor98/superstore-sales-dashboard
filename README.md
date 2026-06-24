@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Performance Dashboard
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## 👋 About This Project
 This is my first Data Analytics project.
